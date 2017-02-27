@@ -14,7 +14,7 @@ Add `hyper-hide-title` to the plugins list in your `~/.hyper.js` config file and
 
 ## Tip
 
-The screenshot is using the [hyper-snazzy](https://github.com/sindresorhus/iterm2-snazzy) theme, [Pure](https://github.com/sindresorhus/pure) prompt, and Menlo font. You don't need this plugin if you're using `hyper-snazzy` as it's already included.
+The screenshot is using the [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) theme, [Pure](https://github.com/sindresorhus/pure) prompt, and Menlo font. You don't need this plugin if you're using `hyper-snazzy` as it's already included.
 
 
 ## License
