@@ -1,0 +1,22 @@
+{
+  "name": "hyper-hide-title",
+  "version": "0.0.0",
+  "description": "Hide the Hyper window title when there is only one tab",
+  "license": "MIT",
+  "repository": "sindresorhus/hyper-hide-title",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-plugin",
+    "hide",
+    "window",
+    "title"
+  ]
+}
