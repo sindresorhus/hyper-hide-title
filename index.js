@@ -4,7 +4,7 @@ exports.decorateConfig = config => Object.assign({}, config, {
 	css: `
 		${config.css}
 
-		._title {
+		.tabs_title {
 			display: none !important;
 		}
 	`
