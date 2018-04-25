@@ -1,6 +1,6 @@
 {
 	"name": "hyper-hide-title",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Hide the Hyper window title when there is only one tab",
 	"license": "MIT",
 	"repository": "sindresorhus/hyper-hide-title",
