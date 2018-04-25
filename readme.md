@@ -9,7 +9,9 @@ The title isn't very useful when you only have one tab as you can already see wh
 
 ## Install
 
-Add `hyper-hide-title` to the plugins list in your `~/.hyper.js` config file and restart Hyper.
+```
+$ hyper install hyper-hide-title
+```
 
 
 ## Tip
